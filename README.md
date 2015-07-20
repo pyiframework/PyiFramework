@@ -17,7 +17,7 @@ Fix CSS3 shield logo height.
 #CURRENT VERSION - v1.1.0
 Updated: July 19 2015
 
-The Pyi Framework is fully HTML5 and CSS3 compliant.
+The Pyi Framework is fully HTML5 and CSS3 compliant.  
 Validated with the W3C Validation Service.
 
 Pyi Framework: http://pyiframework.github.io
