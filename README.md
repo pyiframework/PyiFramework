@@ -36,8 +36,8 @@ Fixed a typo in the CSS mark tag background-color attribute.
 Validated all files with the W3C Validation Service. Pyi is fully HTML5 and CSS3 compliant.  
 Added top and bottom borders to the default navigation CSS.  
 Removed all "This is an example [x]. You can edit this file in [x]" text.  
-Removed all fixed width attributes in the CSS to make the default theme more responsive and mobile friendly.  
-Removed all fixed height attributes in the CSS to make the default theme more responsive and mobile friendly.  
+Removed all fixed width attributes to make the default theme more responsive and mobile friendly.  
+Removed all fixed height attributes to make the default theme more responsive and mobile friendly.  
 Cleaned up and restyled the default top navigation.  
 Optimized all images (all 3 of them).  
 Turned the default wrapper CSS classes into id's like they should be.  
