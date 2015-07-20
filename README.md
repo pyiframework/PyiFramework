@@ -20,6 +20,10 @@ Updated: July 19 2015
 The Pyi Framework is fully HTML5 and CSS3 compliant.  
 Validated with the W3C Validation Service.
 
+Demo: http://KevinPybus.com/pyi
+
+Featured Site: http://WalvinMedia.com
+
 Pyi Framework: http://pyiframework.github.io
 Twitter: @PyiFramework
 
