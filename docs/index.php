@@ -8,7 +8,7 @@ unset($pathArray[0], $pathArray[1]); $howDeep = null; foreach ($pathArray as $pa
 
 <!--
 Pyi Framework Default - documents
-v1.0.0
+v1.1.0
 Last Updated: July 19 2015
 Pyi Framework: http://pyiframework.github.io
 Twitter: @PyiFramework
