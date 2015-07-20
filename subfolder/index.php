@@ -9,7 +9,7 @@ unset($pathArray[0], $pathArray[1]); $howDeep = null; foreach ($pathArray as $pa
 <!--
 Pyi Framework Default - sample subfolder page
 v1.0.0
-Last Updated: July 08 2015
+Last Updated: July 14 2015
 Pyi Framework: http://pyiframework.github.io
 Twitter: @PyiFramework
 Author: Kevin Pybus - http://KevinPybus.com
@@ -26,7 +26,7 @@ Twitter: @KevinPybus
 
 <!-- START PAGE CONTENT -->
 
-<div class="wrap-main">
+<div id="wrap-main">
   <h1>Neat!</h1>
 	<p>This is a subfolder page. It's just here as an example and you can delete it if you want.</p>
   <p>This code is exactly the same as the root index.php.</p>
