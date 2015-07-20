@@ -41,7 +41,7 @@ Removed all fixed height attributes to make the default theme more responsive an
 Cleaned up and restyled the default top navigation.  
 Optimized all images (all 3 of them).  
 Turned the default wrapper CSS classes into id's like they should be.  
-Added HTML5 and CSS3 shield logos to /inc/footer.php since the Pyi Framework is 100% compliant.
+Added HTML5 and CSS3 shield logos to /inc/footer.php since the Pyi Framework is 100% compliant.  
 Made the default theme as responsive as possible without adding media queries.
 
 #Version 1.1.0 Known Issues:
