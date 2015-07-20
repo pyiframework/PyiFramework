@@ -47,5 +47,7 @@ Removed all "This is an example [x]. You can edit this file in [x]" text.
 #Version 1.1.0 Known Issues:
 The CSS3 logo is not the same height as the HTML5 logo (it really is but the image itself has a small transparent border). - Solution: The image needs to be edited, optimized, and replaced.
 
+---
+
 #v1.0.0
 Original Commit: July 14 2015
